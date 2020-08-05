@@ -1,0 +1,5 @@
+D:\Work Station\TEST\BAL\bin\Debug\BAL.dll
+D:\Work Station\TEST\BAL\bin\Debug\BAL.pdb
+D:\Work Station\TEST\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\Work Station\TEST\BAL\obj\Debug\BAL.dll
+D:\Work Station\TEST\BAL\obj\Debug\BAL.pdb
