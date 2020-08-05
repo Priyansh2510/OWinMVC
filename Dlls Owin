@@ -1,0 +1,5 @@
+Install-Package Microsoft.Owin -Version 4.1.0
+
+Install-Package Microsoft.AspNet.Identity.Owin -Version 2.2.3
+
+Install-Package Microsoft.Owin.Host.SystemWeb -Version 4.1.0
